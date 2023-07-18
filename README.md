@@ -1,4 +1,4 @@
-Shelobox
+Drivebox
 ========
 
 A leverless controller for fighting games. Inspired by thumb clusters on ergonomic keyboards, it aims to better use thumbs.
